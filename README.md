@@ -28,20 +28,5 @@ Our team was composed of Turing School of Software and Design students (Alex, Ci
 
 ### The Initial Design/Wireframe
 
-![The Initial Design](wireframe.png)
-
-### Mockup:
-
-The Home Screen
-
-![The Home Screen](homescreen.png)
-
-The Camera Screen
-
-![The Camera Screen](camerascreen.png)
-
-The Submit Screen
-
-![The Submit Screen](submitscreen.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
