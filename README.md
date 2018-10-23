@@ -26,7 +26,7 @@ Our team was composed of Turing School of Software and Design students (Alex, Ci
 
 ## The App Design
 
-### The Initial Design
+### The Initial Design/Wireframe
 
 ![The Initial Design](wireframe.png)
 
