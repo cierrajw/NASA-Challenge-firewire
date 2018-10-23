@@ -28,5 +28,7 @@ Our team was composed of Turing School of Software and Design students (Alex, Ci
 
 ### The Initial Design/Wireframe
 
+![The Initial Design](wireframe.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
